@@ -3,4 +3,4 @@
 
  Repositório criado com base no curso do Gustavo Guanabara.
 
-Essa linha eu adicionei diretamente no site! QUE IMPRESSIONANTE@
+Essa linha eu adicionei diretamente no site! QUE IMPRESSIONANTE!
